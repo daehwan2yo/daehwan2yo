@@ -4,5 +4,5 @@ https://daehwan2yo.notion.site/Spring-Annotation-f1a3a321f33d44eeb43f8e2049b71ce
 
 <div align=center>  
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2366ACE1&title_bg=%23000000&icon=&icon_color=%23984C4C&title=visits&edge_flat=false)](https://github.com/daehwan2yo)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaehwan2yo&count_bg=%238189F7&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
