@@ -14,6 +14,8 @@ https://daehwan2yo.notion.site/Spring-Annotation-f1a3a321f33d44eeb43f8e2049b71ce
 ### 예외 노트
 https://www.notion.so/daehwan2yo/Exceptions-dc02c8bc91eb461ca879e1371a688476   
 
+### CS 노트
+https://daehwan2yo.notion.site/2-CS-4a6150e1118c44c4ad6f699739c21dde
 
 <div align=center>  
   
