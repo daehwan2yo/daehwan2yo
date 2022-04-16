@@ -3,6 +3,9 @@
 ## skills
 ### java 8+, Spring boot, Mysql
 
+## Now I'm studying
+### kotlin, Spring Cloud
+
 ### tistory
 **<개인 블로그>**  
 https://daehwan2yo.tistory.com/  
